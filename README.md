@@ -51,7 +51,4 @@ Follow these steps to run the app on your computer:
 
 ---
 
-## 📞 Contact
 
-* [Your Name/Email if you want to share]
-* [Link to your GitHub repo, once uploaded]
