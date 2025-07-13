@@ -52,6 +52,6 @@ Follow these steps to run the app on your computer:
 ---
 ## 📸 Demo
 
-![Real-time Chat in Action](images/chat-screenshot.png)
+![Real-time Chat in Action](./public/ChatBot.png)
 
 
