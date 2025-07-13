@@ -50,5 +50,8 @@ Follow these steps to run the app on your computer:
 * Open another tab or browser to the same link to test chatting between two "users."
 
 ---
+## 📸 Demo
+
+![Real-time Chat in Action](images/chat-screenshot.png)
 
 
